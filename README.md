@@ -49,7 +49,7 @@ Error Handling: Handles invalid inputs, missing files, and incorrect column name
 
 ## Test
 
-this repo contain a CSV test file to test these arg
+this repo contain a CSV test file (Test.csv) to test these arg
 
 
 
